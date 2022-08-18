@@ -15,5 +15,5 @@ The sys module in Python provides various functions and variables that are used 
 The Pygame library has support for sprites. A sprite is a two dimensional image that is part of the larger graphical scene. Typically a sprite will be some kind of object in the scene that will be interacted with like a car, frog, or little plumber guy.
 
 # Snapshot of Alien Invasion
-<img src = "">
+<img src = "https://raw.githubusercontent.com/tanmaypradhan4112/Alien-Invasion/main/img/alien_invasion.png">
 
