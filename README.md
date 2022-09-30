@@ -4,7 +4,7 @@ Made shooting game called Alien Invasion
 - ***Library***: Pygame | Sys | Sprite
 - ***User-Defined Module***: Button | Bullet | Ship | Scoreboard | Game_function | Game_stats | Setings
 
-##USER INSTALLATION
+# USER INSTALLATION
 - Download the zip file
 - Open in any IDE (VS code..)
 - Run ailen_invasion.py file to run the game
