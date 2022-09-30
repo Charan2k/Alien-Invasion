@@ -9,7 +9,7 @@ Made shooting game called Alien Invasion
 - Navigate to "main" folder
 - Run the alien_invasion.py by either
 1. Double clicking it
-2. From command line / terminal : python3 alien_invasion.py
+2. From command line / terminal : `python3 alien_invasion.py`
 
 NOTE: python3 is the name of the interpreter, it might be different for you, namely it can
     one of the three: python, python3, py
