@@ -1,5 +1,9 @@
 #creating a user window for the game
 import sys
+
+# this is to add the folders to the module search path of python
+sys.path.insert(0,'../function')
+sys.path.insert(0,'../component')
 import pygame
 
 #user defined module

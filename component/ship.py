@@ -7,7 +7,7 @@ class Ship(Sprite):
         super(Ship,self).__init__()
         self.screen = screen
         self.ai_settings = ai_settings
-        self.image = pygame.image.load('C:/Users/GANESH/Desktop/TANMAY/project/alien_pygame/plane.bmp')
+        self.image = pygame.image.load('../img/plane.bmp')
         self.rect = self.image.get_rect()
         self.screen_rect = screen.get_rect()
 
