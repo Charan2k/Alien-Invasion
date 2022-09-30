@@ -4,6 +4,17 @@ Made shooting game called Alien Invasion
 - ***Library***: Pygame | Sys | Sprite
 - ***User-Defined Module***: Button | Bullet | Ship | Scoreboard | Game_function | Game_stats | Setings
 
+## User Guide
+- Clone the repository
+- Navigate to "main" folder
+- Run the alien_invasion.py by either
+1. Double clicking it
+2. From command line / terminal : python3 alien_invasion.py
+
+NOTE: python3 is the name of the interpreter, it might be different for you, namely it can
+    one of the three: python, python3, py
+
+
 ## Pygame
 <img src="https://www.pygame.org/ftp/pygame-head-party.png" height = 150, widht= 150>
 Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
