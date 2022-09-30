@@ -5,6 +5,8 @@ Made shooting game called Alien Invasion
 - ***User-Defined Module***: Button | Bullet | Ship | Scoreboard | Game_function | Game_stats | Setings
 
 ## User Guide
+You need to have Python 3 installed to be able to play this game,
+Install Python: https://www.python.org/downloads/ (Any python3 version)
 - Clone the repository
 - Navigate to "main" folder
 - Run the alien_invasion.py by either
