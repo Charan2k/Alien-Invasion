@@ -16,7 +16,6 @@ Install Python: https://www.python.org/downloads/ (Any python3 version)
 NOTE: python3 is the name of the interpreter, it might be different for you, namely it can
     one of the three: python, python3, py
 
-
 ## Pygame
 <img src="https://www.pygame.org/ftp/pygame-head-party.png" height = 150, widht= 150>
 Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
