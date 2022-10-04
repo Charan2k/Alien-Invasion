@@ -4,10 +4,19 @@ Made shooting game called Alien Invasion
 - ***Library***: Pygame | Sys | Sprite
 - ***User-Defined Module***: Button | Bullet | Ship | Scoreboard | Game_function | Game_stats | Setings
 
-# USER INSTALLATION
-- Download the zip file
-- Open in any IDE (VS code..)
-- Run ailen_invasion.py file to run the game
+## User Guide
+You need to have Python 3 installed to be able to play this game,
+Install Python: https://www.python.org/downloads/ (Any python3 version)
+- Clone the repository
+- Navigate to "main" folder
+- Run the alien_invasion.py by either
+1. Double clicking it
+2. From command line / terminal : 
+    `pip install -r requirements.txt`
+    `python3 main/alien_invasion.py`
+
+NOTE: python3 is the name of the interpreter, it might be different for you, namely it can
+    one of the three: python, python3, py
 
 ## Pygame
 <img src="https://www.pygame.org/ftp/pygame-head-party.png" height = 150, widht= 150>
